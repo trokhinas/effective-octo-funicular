@@ -24,5 +24,9 @@
         <module name="database" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="database" target="11" />
+      <module name="DigitalLeagueTest" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
